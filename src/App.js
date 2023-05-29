@@ -1,9 +1,8 @@
-import PaginaInicial from "./Paginas/PaginaInicial";
 import './styles/estilosGlobais.scss'
-import Cabecalho from "./componentes/Cabecalho";
+import PaginaInicial from "./Paginas/PaginaInicial";
 
 export default function App() {
   return (
-    <Cabecalho></Cabecalho>
+    <PaginaInicial></PaginaInicial>
   );
 }
