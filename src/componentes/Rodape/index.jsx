@@ -18,7 +18,7 @@ export default function Rodape() {
             <img src={twitter} alt='Twitter' />
           </li>
         </nav>
-        <h1 className={styles.footer__texto} >Desenvolvido por Josué</h1>
+        <h1 className={styles.footer__texto} >Desenvolvido by</h1>
     </footer>
   )
 }
